@@ -1,0 +1,423 @@
+{
+  "albums": [
+    {
+      "id": "ive-switch",
+      "releaseYear": 2024,
+      "releaseDate": "2024-04-29",
+      "group": "IVE",
+      "albumName": "IVE SWITCH",
+      "versions": [
+        {
+          "id": "on",
+          "label": "ON Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ive-switch-on-01",
+              "idol": "Yujin",
+              "name": "Yujin 01",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Wonyoung ON ver. or Rei B ver.",
+              "salePrice": 5,
+              "saleNote": "shipping not included"
+            },
+            {
+              "id": "ive-switch-on-02",
+              "idol": "Gaeul",
+              "name": "Gaeul 01",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-switch-on-03",
+              "idol": "Rei",
+              "name": "Rei 01",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-switch-on-04",
+              "idol": "Liz",
+              "name": "Liz 01",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "off",
+          "label": "OFF Ver.",
+          "type": "Ver.",
+          "order": 2,
+          "cards": [
+            {
+              "id": "ive-switch-off-01",
+              "idol": "Leeseo",
+              "name": "Leeseo 01",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-switch-off-02",
+              "idol": "Wonyoung",
+              "name": "Wonyoung 01",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-switch-off-03",
+              "idol": "Yujin",
+              "name": "Yujin 02",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ive-imine",
+      "releaseYear": 2023,
+      "releaseDate": "2023-10-13",
+      "group": "IVE",
+      "albumName": "I'VE MINE",
+      "versions": [
+        {
+          "id": "a",
+          "label": "A Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ive-mine-a-01",
+              "idol": "Yujin",
+              "name": "Yujin A1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-mine-a-02",
+              "idol": "Rei",
+              "name": "Rei A1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-mine-a-03",
+              "idol": "Liz",
+              "name": "Liz A1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-mine-a-04",
+              "idol": "Wonyoung",
+              "name": "Wonyoung A1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "label": "B Ver.",
+          "type": "Ver.",
+          "order": 2,
+          "cards": [
+            {
+              "id": "ive-mine-b-01",
+              "idol": "Gaeul",
+              "name": "Gaeul B1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-mine-b-02",
+              "idol": "Leeseo",
+              "name": "Leeseo B1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-mine-b-03",
+              "idol": "Yujin",
+              "name": "Yujin B1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ive-after-like",
+      "releaseYear": 2022,
+      "releaseDate": "2022-08-22",
+      "group": "IVE",
+      "albumName": "After LIKE",
+      "versions": [
+        {
+          "id": "on",
+          "label": "ON Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ive-after-like-on-01",
+              "idol": "Yujin",
+              "name": "Yujin OL1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-after-like-on-02",
+              "idol": "Gaeul",
+              "name": "Gaeul OL1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-after-like-on-03",
+              "idol": "Rei",
+              "name": "Rei OL1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-after-like-on-04",
+              "idol": "Liz",
+              "name": "Liz OL1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "off",
+          "label": "OFF Ver.",
+          "type": "Ver.",
+          "order": 2,
+          "cards": [
+            {
+              "id": "ive-after-like-off-01",
+              "idol": "Leeseo",
+              "name": "Leeseo OL1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-after-like-off-02",
+              "idol": "Wonyoung",
+              "name": "Wonyoung OL1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-after-like-off-03",
+              "idol": "Yujin",
+              "name": "Yujin OL2",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ive-love-dive",
+      "releaseYear": 2022,
+      "releaseDate": "2022-04-05",
+      "group": "IVE",
+      "albumName": "LOVE DIVE",
+      "versions": [
+        {
+          "id": "a",
+          "label": "A Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ive-love-dive-a-01",
+              "idol": "Yujin",
+              "name": "Yujin LD1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-love-dive-a-02",
+              "idol": "Liz",
+              "name": "Liz LD1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-love-dive-a-03",
+              "idol": "Rei",
+              "name": "Rei LD1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "b",
+          "label": "B Ver.",
+          "type": "Ver.",
+          "order": 2,
+          "cards": [
+            {
+              "id": "ive-love-dive-b-01",
+              "idol": "Gaeul",
+              "name": "Gaeul LD1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "ive-love-dive-b-02",
+              "idol": "Wonyoung",
+              "name": "Wonyoung LD1",
+              "image": "",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "wishlist": {
+    "canvaUrl": "https://canva.link/g5339eporh3eq6r",
+    "note": "This board is updated more often than this page \u2014 check Canva for the most current wishlist.",
+    "cards": [
+      {
+        "id": "wishlist-01",
+        "idol": "Wonyoung",
+        "cardName": "Wonyoung ON Ver.",
+        "albumName": "IVE SWITCH",
+        "versionLabel": "ON Ver.",
+        "image": "",
+        "note": ""
+      },
+      {
+        "id": "wishlist-02",
+        "idol": "Rei",
+        "cardName": "Rei B Ver.",
+        "albumName": "I'VE MINE",
+        "versionLabel": "B Ver.",
+        "image": "",
+        "note": ""
+      },
+      {
+        "id": "wishlist-03",
+        "idol": "Gaeul",
+        "cardName": "Gaeul A Ver.",
+        "albumName": "LOVE DIVE",
+        "versionLabel": "A Ver.",
+        "image": "",
+        "note": ""
+      }
+    ]
+  }
+}
