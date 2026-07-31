@@ -1,0 +1,856 @@
+{
+  "albums": [
+    {
+      "id": "wyld",
+      "releaseYear": 2026,
+      "releaseDate": "2026-05-18",
+      "group": "Taeyong",
+      "albumName": "WYLD",
+      "versions": [
+        {
+          "id": "zine",
+          "label": "Zine Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "wyld-zine-01",
+              "idol": "Taeyong",
+              "name": "Taeyong 01",
+              "image": "/photocards/NCTSolos/wyldzine1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Zine Card I don't have, see wishlist for moredetails.",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "wyld-zine-02",
+              "idol": "Taeyong",
+              "name": "Taeyong 02",
+              "image": "/photocards/NCTSolos/wyldzine2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Zine Card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "wyld-zine-03",
+              "idol": "Taeyong",
+              "name": "Taeyong 03",
+              "image": "/photocards/NCTSolos/wyldzine3.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Zine Card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "jewelcase",
+          "label": "Jewel Case Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "wyld-jewelcase-01",
+              "idol": "Taeyong",
+              "name": "Taeyong 01",
+              "image": "/photocards/NCTSolos/wyldjc.jpg",
+              "notes": "",
+              "owned": 2,
+              "tradeNote": "Any Jewel Case Card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "kpopnara",
+          "label": "Kpopnara Exclusive",
+          "type": "Ver.",
+          "order": 2,
+          "cards": [
+            {
+              "id": "zine-kpopnara-01",
+              "idol": "Taeyong",
+              "name": "Taeyong kpopnara 01",
+              "image": "/photocards/NCTSolos/wyldzinekn.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "The last kpopnara zine card I need, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "jc-kpopnara-01",
+              "idol": "Taeyong",
+              "name": "Taeyong kpopnara 02",
+              "image": "/photocards/NCTSolos/wyldjckn.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "The last kpopnara jewel case card I need, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "id": "stunner",
+      "releaseYear": 2025,
+      "releaseDate": "2025-03-24",
+      "group": "Ten",
+      "albumName": "STUNNER",
+      "versions": [
+        {
+          "id": "youare",
+          "label": "You Are Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "youare-01",
+              "idol": "Ten",
+              "name": "Ten 01",
+              "image": "/photocards/NCTSolos/stunneryouare.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any I Am version card I don't have, see wishlist for moredetails.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "bluevalentine",
+      "releaseYear": 2025,
+      "releaseDate": "2025-10-13",
+      "group": "NMIXX",
+      "albumName": "Blue Valentine",
+      "versions": [
+        {
+          "id": "valentine",
+          "label": "Valentine Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "valentine-01",
+              "idol": "Lily",
+              "name": "Lily 01",
+              "image": "/photocards/nmixx/bv_valentine1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Bae equivalent card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "valentine-02",
+              "idol": "Lily",
+              "name": "Lily 02",
+              "image": "/photocards/nmixx/bv_valentine2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Bae equivalent card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "valentine-03",
+              "idol": "Unit",
+              "name": "Unit 01",
+              "image": "/photocards/nmixx/bv_valentine_unit.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Bae equivalent unit card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        { "id": "makestar",
+          "label": "Makestar POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "makestar-01",
+              "idol": "Kyujin",
+              "name": "Kyujin 01",
+              "image": "/photocards/nmixx/bv_makestar.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "The Bae equivalent makestar card.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "id": "heavyserenade",
+      "releaseYear": 2026,
+      "releaseDate": "2026-05-11",
+      "group": "NMIXX",
+      "albumName": "Heavy Serenade",
+      "versions": [
+        {
+          "id": "heavy",
+          "label": "Heavy Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "heavy-01",
+              "idol": "Haewon",
+              "name": "Haewon 01",
+              "image": "/photocards/nmixx/hs_heavy1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Bae equivalent card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "serenade",
+          "label": "Serenade Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "serenade-01",
+              "idol": "Unit",
+              "name": "Unit 01",
+              "image": "/photocards/nmixx/hs_serenade_unit.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any Bae equivalent unit card I don't have, see wishlist for more details.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "applemusiv",
+          "label": "Apple Music POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "applemu-01",
+              "idol": "Haewon",
+              "name": "Haewon 01",
+              "image": "/photocards/nmixx/hs_applemu1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "The Bae equivalent apple music card.",
+              "salePrice": null,
+              "saleNote": ""
+            },
+            {
+              "id": "applemu-02",
+              "idol": "Sullyoon",
+              "name": "Sullyoon 01",
+              "image": "/photocards/nmixx/hs_applemu2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "The Bae equivalent apple music card.",
+              "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "ready-to-be",
+      "releaseYear": 2023,
+      "releaseDate": "2023-03-10",
+      "group": "Twice",
+      "albumName": "Ready To Be",
+      "versions": [
+        {
+          "id": "ready",
+          "label": "Ready Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ready-01",
+              "idol": "Tzuyu",
+              "name": "Tzuyu 01",
+              "image": "/photocards/twice/RTB_Ready1.jpg",
+              "notes": "",
+              "owned": 2,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        },
+        {
+          "id": "to",
+          "label": "To Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "to-01",
+              "idol": "Jeongyeon",
+              "name": "Jeongyeon 01",
+              "image": "/photocards/twice/RTB_To1.jpg",
+              "notes": "",
+              "owned": 2,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        },
+        {
+          "id": "be",
+          "label": "Be Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "be-01",
+              "idol": "Jeongyeon",
+              "name": "Jeongyeon 01",
+              "image": "/photocards/twice/RTB_Be1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": "DM me on my Instagram!"
+            },
+            {
+              "id": "be-02",
+              "idol": "Sana",
+              "name": "Sana 01",
+              "image": "/photocards/twice/RTB_Be_MC.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        },
+        {
+          "id": "target",
+          "label": "Target Exclusive.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "target-01",
+              "idol": "Tzuyu",
+              "name": "Tzuyu 01",
+              "image": "/photocards/twice/RTB_T.jpg",
+              "notes": "",
+              "owned": 2,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "strategy",
+      "releaseYear": 2024,
+      "releaseDate": "2024-12-06",
+      "group": "Twice",
+      "albumName": "Strategy",
+      "versions": [
+        {
+          "id": " target",
+          "label": "Target Exclusive.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "target-01",
+              "idol": "Dahyun",
+              "name": "Dahyun 01",
+              "image": "/photocards/twice/Strat_T.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "this-is-for",
+      "releaseYear": 2025,
+      "releaseDate": "2025-07-11",
+      "group": "Twice",
+      "albumName": "This Is For",
+      "versions": [
+        {
+          "id": "is",
+          "label": "Is Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "is-01",
+              "idol": "Momo",
+              "name": "Momo 01",
+              "image": "/photocards/twice/TIF_Is_POB1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "is-02",
+              "idol": "Dahyun",
+              "name": "Dahyun 01",
+              "image": "/photocards/twice/TIF_Is_POB2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "is-03",
+              "idol": "Chaeyoung",
+              "name": "Chaeyoung 01",
+              "image": "/photocards/twice/TIF_Is_POB3.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "is-04",
+              "idol": "Tzuyu",
+              "name": "Tzuyu 01",
+              "image": "/photocards/twice/TIF_Is_POB4.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "for",
+          "label": "For Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "for-01",
+              "idol": "Jihyo",
+              "name": "Jihyo 01",
+              "image": "/photocards/twice/TIF_For1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": "DM me on my Instagram!"
+            },
+            {
+              "id": "for-02",
+              "idol": "Chaeyoung",
+              "name": "Chaeyoung 01",
+              "image": "/photocards/twice/TIF_For2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "an-ode",
+      "releaseYear": 2019,
+      "releaseDate": "2019-09-16",
+      "group": "Seventeen",
+      "albumName": "An Ode",
+      "versions": [
+        {
+          "id": "Begin",
+          "label": "Begin Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "begin-01",
+              "idol": "Woozi",
+              "name": "Woozi 01",
+              "image": "/photocards/seventeen/AO_Begin1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "Hope",
+          "label": "Hope Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "hope-01",
+              "idol": "Jeonghan",
+              "name": "Jeonghan 01",
+              "image": "/photocards/seventeen/AO_Hope1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "hope-02",
+              "idol": "Seungkwan",
+              "name": "Seungkwan 01",
+              "image": "/photocards/seventeen/AO_Hope2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "real",
+          "label": "Real Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "real-01",
+              "idol": "Vernon",
+              "name": "Vernon 01",
+              "image": "/photocards/seventeen/AO_Real1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "Attacca",
+      "releaseYear": 2021,
+      "releaseDate": "2021-10-22",
+      "group": "Seventeen",
+      "albumName": "Attacca",
+      "versions": [
+        {
+          "id": "Carat",
+          "label": "Carat Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "carat-01",
+              "idol": "Joshua",
+              "name": "Joshua 01",
+              "image": "/photocards/seventeen/Att_Carat1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-02",
+              "idol": "Hoshi",
+              "name": "Hoshi 01",
+              "image": "/photocards/seventeen/Att_Carat2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-03",
+              "idol": "Wonwoo",
+              "name": "Wonwoo 01",
+              "image": "/photocards/seventeen/Att_Carat3.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-04",
+              "idol": "Seungkwan",
+              "name": "Seungkwan 01",
+              "image": "/photocards/seventeen/Att_Carat4.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-05",
+              "idol": "Dino",
+              "name": "Dino 01",
+              "image": "/photocards/seventeen/Att_Carat5.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "Face the Sun",
+      "releaseYear": 2022,
+      "releaseDate": "2022-05-27",
+      "group": "Seventeen",
+      "albumName": "Face the Sun",
+      "versions": [
+        {
+          "id": "ep1-control",
+          "label": "EP 1: Control Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ep1-control-01",
+              "idol": "Woozi",
+              "name": "Woozi 01",
+              "image": "/photocards/seventeen/FTS_EP1Control1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "ep1-control-02",
+              "idol": "Seungkwan",
+              "name": "Seungkwan 01",
+              "image": "/photocards/seventeen/FTS_EP1Control2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ep5-pioneer",
+          "label": "EP 5: Pioneer Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ep5-pioneer-01",
+              "idol": "Dokyeom",
+              "name": "Dokyeom 01",
+              "image": "/photocards/seventeen/FTS_EP5Pioneer1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "Carat",
+          "label": "Carat Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "carat-01",
+              "idol": "Hoshi",
+              "name": "Hoshi 01",
+              "image": "/photocards/seventeen/FTS_Carat.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "sector17",
+      "releaseYear": 2022,
+      "releaseDate": "2022-07-18",
+      "group": "Seventeen",
+      "albumName": "Sector 17",
+      "versions": [
+        {
+          "id": "new-beginning",
+          "label": "New Beginning Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "new-beginning-01",
+              "idol": "Vernon",
+              "name": "Vernon 01",
+              "image": "/photocards/seventeen/s17_newbeg.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "FML",
+      "releaseYear": 2023,
+      "releaseDate": "2023-04-24",
+      "group": "Seventeen",
+      "albumName": "FML",
+      "versions": [
+        {
+          "id": "Carat",
+          "label": "Carat Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "carat-01",
+              "idol": "Mingyu",
+              "name": "Mingyu 01",
+              "image": "/photocards/seventeen/FML_Carat1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-02",
+              "idol": "Dokyeom",
+              "name": "Dokyeom 01",
+              "image": "/photocards/seventeen/FML_Carat2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-03",
+              "idol": "Vernon",
+              "name": "Vernon 01",
+              "image": "/photocards/seventeen/FML_Carat3.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-04",
+              "idol": "Dino",
+              "name": "Dino 01",
+              "image": "/photocards/seventeen/FML_Carat4.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    }
+
+
+
+
+  ],
+
+  "wishlist": {
+    "canvaUrl": "https://canva.link/g5339eporh3eq6r",
+    "note": "This is a list of cards that I am currently in search of, but check the Canva link for for the most current wishlist. ^^",
+    "cards": [
+      {
+        "id": "wishlist-01",
+        "idol": "Wonyoung",
+        "cardName": "Wonyoung ON Ver.",
+        "albumName": "IVE SWITCH",
+        "versionLabel": "ON Ver.",
+        "image": "",
+        "note": ""
+      },
+      {
+        "id": "wishlist-02",
+        "idol": "Rei",
+        "cardName": "Rei B Ver.",
+        "albumName": "I'VE MINE",
+        "versionLabel": "B Ver.",
+        "image": "",
+        "note": ""
+      },
+      {
+        "id": "wishlist-03",
+        "idol": "Gaeul",
+        "cardName": "Gaeul A Ver.",
+        "albumName": "LOVE DIVE",
+        "versionLabel": "A Ver.",
+        "image": "",
+        "note": ""
+      }
+    ]
+  }
+}
