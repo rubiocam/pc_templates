@@ -16,7 +16,7 @@
             {
               "id": "wyld-zine-01",
               "idol": "Taeyong",
-              "name": "Taeyong 01",
+              "name": "Taeyong Wyld Zine 01",
               "image": "/photocards/NCTSolos/wyldzine1.jpg",
               "notes": "",
               "owned": 1,
@@ -27,7 +27,7 @@
             {
               "id": "wyld-zine-02",
               "idol": "Taeyong",
-              "name": "Taeyong 02",
+              "name": "Taeyong Wyld Zine 02",
               "image": "/photocards/NCTSolos/wyldzine2.jpg",
               "notes": "",
               "owned": 1,
@@ -38,7 +38,7 @@
             {
               "id": "wyld-zine-03",
               "idol": "Taeyong",
-              "name": "Taeyong 03",
+              "name": "Taeyong Wyld Zine 03",
               "image": "/photocards/NCTSolos/wyldzine3.jpg",
               "notes": "",
               "owned": 1,
@@ -57,7 +57,7 @@
             {
               "id": "wyld-jewelcase-01",
               "idol": "Taeyong",
-              "name": "Taeyong 01",
+              "name": "Taeyong Wyld Jewel Case 01",
               "image": "/photocards/NCTSolos/wyldjc.jpg",
               "notes": "",
               "owned": 2,
@@ -76,7 +76,7 @@
             {
               "id": "zine-kpopnara-01",
               "idol": "Taeyong",
-              "name": "Taeyong kpopnara 01",
+              "name": "Taeyong Wyld Kpopnara 01",
               "image": "/photocards/NCTSolos/wyldzinekn.jpg",
               "notes": "",
               "owned": 1,
@@ -87,7 +87,7 @@
             {
               "id": "jc-kpopnara-01",
               "idol": "Taeyong",
-              "name": "Taeyong kpopnara 02",
+              "name": "Taeyong Wyld Kpopnara 02",
               "image": "/photocards/NCTSolos/wyldjckn.jpg",
               "notes": "",
               "owned": 1,
@@ -116,7 +116,7 @@
             {
               "id": "youare-01",
               "idol": "Ten",
-              "name": "Ten 01",
+              "name": "Ten STUNNER You Are 01",
               "image": "/photocards/NCTSolos/stunneryouare.jpg",
               "notes": "",
               "owned": 1,
@@ -143,9 +143,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "valentine-01",
+              "id": "bv-valentine-01",
               "idol": "Lily",
-              "name": "Lily 01",
+              "name": "Lily Blue Valentine 01",
               "image": "/photocards/nmixx/bv_valentine1.jpg",
               "notes": "",
               "owned": 1,
@@ -154,9 +154,9 @@
               "saleNote": ""
             },
             {
-              "id": "valentine-02",
+              "id": "bv-valentine-02",
               "idol": "Lily",
-              "name": "Lily 02",
+              "name": "Lily Blue Valentine 02",
               "image": "/photocards/nmixx/bv_valentine2.jpg",
               "notes": "",
               "owned": 1,
@@ -165,9 +165,9 @@
               "saleNote": ""
             },
             {
-              "id": "valentine-03",
+              "id": "bv-valentine-03",
               "idol": "Unit",
-              "name": "Unit 01",
+              "name": "Unit Blue Valentine 01",
               "image": "/photocards/nmixx/bv_valentine_unit.jpg",
               "notes": "",
               "owned": 1,
@@ -183,9 +183,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "makestar-01",
+              "id": "bv-makestar-01",
               "idol": "Kyujin",
-              "name": "Kyujin 01",
+              "name": "Kyujin Blue Valentine 01",
               "image": "/photocards/nmixx/bv_makestar.jpg",
               "notes": "",
               "owned": 1,
@@ -213,9 +213,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "heavy-01",
+              "id": "hs-heavy-01",
               "idol": "Haewon",
-              "name": "Haewon 01",
+              "name": "Haewon Heavy Serenade 01",
               "image": "/photocards/nmixx/hs_heavy1.jpg",
               "notes": "",
               "owned": 1,
@@ -232,9 +232,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "serenade-01",
+              "id": "hs-serenade-01",
               "idol": "Unit",
-              "name": "Unit 01",
+              "name": "Unit Heavy Serenade 01",
               "image": "/photocards/nmixx/hs_serenade_unit.jpg",
               "notes": "",
               "owned": 1,
@@ -251,9 +251,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "applemu-01",
+              "id": "hs-applemu-01",
               "idol": "Haewon",
-              "name": "Haewon 01",
+              "name": "Haewon Heavy Serenade Apple Music 01",
               "image": "/photocards/nmixx/hs_applemu1.jpg",
               "notes": "",
               "owned": 1,
@@ -262,9 +262,9 @@
               "saleNote": ""
             },
             {
-              "id": "applemu-02",
+              "id": "hs-applemu-02",
               "idol": "Sullyoon",
-              "name": "Sullyoon 01",
+              "name": "Sullyoon Heavy Serenade Apple Music 01",
               "image": "/photocards/nmixx/hs_applemu2.jpg",
               "notes": "",
               "owned": 1,
@@ -291,9 +291,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "ready-01",
+              "id": "rtb-ready-01",
               "idol": "Tzuyu",
-              "name": "Tzuyu 01",
+              "name": "Tzuyu Ready To Be Ready 01",
               "image": "/photocards/twice/RTB_Ready1.jpg",
               "notes": "",
               "owned": 2,
@@ -310,9 +310,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "to-01",
+              "id": "rtb-to-01",
               "idol": "Jeongyeon",
-              "name": "Jeongyeon 01",
+              "name": "Jeongyeon Ready To Be To 01",
               "image": "/photocards/twice/RTB_To1.jpg",
               "notes": "",
               "owned": 2,
@@ -329,9 +329,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "be-01",
+              "id": "rtb-be-01",
               "idol": "Jeongyeon",
-              "name": "Jeongyeon 01",
+              "name": "Jeongyeon Ready To Be Be 01",
               "image": "/photocards/twice/RTB_Be1.jpg",
               "notes": "",
               "owned": 1,
@@ -340,9 +340,9 @@
               "saleNote": "DM me on my Instagram!"
             },
             {
-              "id": "be-02",
+              "id": "rtb-be-02",
               "idol": "Sana",
-              "name": "Sana 01",
+              "name": "Sana Ready To Be Be 01",
               "image": "/photocards/twice/RTB_Be_MC.jpg",
               "notes": "",
               "owned": 1,
@@ -359,12 +359,12 @@
           "order": 1,
           "cards": [
             {
-              "id": "target-01",
+              "id": "rtb-target-01",
               "idol": "Tzuyu",
-              "name": "Tzuyu 01",
+              "name": "Tzuyu Ready To Be Target 01",
               "image": "/photocards/twice/RTB_T.jpg",
               "notes": "",
-              "owned": 2,
+              "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
               "salePrice": 2,
               "saleNote": "DM me on my Instagram!"
@@ -382,15 +382,15 @@
       "albumName": "Strategy",
       "versions": [
         {
-          "id": " target",
+          "id": "strategy-target",
           "label": "Target Exclusive.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "target-01",
+              "id": "rtb-strategy-target-01",
               "idol": "Dahyun",
-              "name": "Dahyun 01",
+              "name": "Dahyun Strategy Target 01",
               "image": "/photocards/twice/Strat_T.jpg",
               "notes": "",
               "owned": 1,
@@ -417,9 +417,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "is-01",
+              "id": "tif-is-01",
               "idol": "Momo",
-              "name": "Momo 01",
+              "name": "Momo This Is For Is 01",
               "image": "/photocards/twice/TIF_Is_POB1.jpg",
               "notes": "",
               "owned": 1,
@@ -428,9 +428,9 @@
               "saleNote": ""
             },
             {
-              "id": "is-02",
+              "id": "tif-is-02",
               "idol": "Dahyun",
-              "name": "Dahyun 01",
+              "name": "Dahyun This Is For Is 01",
               "image": "/photocards/twice/TIF_Is_POB2.jpg",
               "notes": "",
               "owned": 1,
@@ -439,9 +439,9 @@
               "saleNote": ""
             },
             {
-              "id": "is-03",
+              "id": "tif-is-03",
               "idol": "Chaeyoung",
-              "name": "Chaeyoung 01",
+              "name": "Chaeyoung This Is For Is 01",
               "image": "/photocards/twice/TIF_Is_POB3.jpg",
               "notes": "",
               "owned": 1,
@@ -450,9 +450,9 @@
               "saleNote": ""
             },
             {
-              "id": "is-04",
+              "id": "tif-is-04",
               "idol": "Tzuyu",
-              "name": "Tzuyu 01",
+              "name": "Tzuyu This Is For Is 01",
               "image": "/photocards/twice/TIF_Is_POB4.jpg",
               "notes": "",
               "owned": 1,
@@ -463,15 +463,15 @@
           ]
         },
         {
-          "id": "for",
+          "id": "tis-for",
           "label": "For Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "for-01",
+              "id": "tif-for-01",
               "idol": "Jihyo",
-              "name": "Jihyo 01",
+              "name": "Jihyo This Is For For 01",
               "image": "/photocards/twice/TIF_For1.jpg",
               "notes": "",
               "owned": 1,
@@ -480,9 +480,9 @@
               "saleNote": "DM me on my Instagram!"
             },
             {
-              "id": "for-02",
+              "id": "tif-for-02",
               "idol": "Chaeyoung",
-              "name": "Chaeyoung 01",
+              "name": "Chaeyoung This Is For For 01",
               "image": "/photocards/twice/TIF_For2.jpg",
               "notes": "",
               "owned": 1,
@@ -503,15 +503,15 @@
       "albumName": "An Ode",
       "versions": [
         {
-          "id": "Begin",
+          "id": "an-ode-begin",
           "label": "Begin Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "begin-01",
+              "id": "an-ode-begin-01",
               "idol": "Woozi",
-              "name": "Woozi 01",
+              "name": "Woozi An Ode Begin 01",
               "image": "/photocards/seventeen/AO_Begin1.jpg",
               "notes": "",
               "owned": 1,
@@ -528,9 +528,9 @@
           "order": 1,
           "cards": [
             {
-              "id": "hope-01",
+              "id": "an-ode-hope-01",
               "idol": "Jeonghan",
-              "name": "Jeonghan 01",
+              "name": "Jeonghan An Ode Hope 01",
               "image": "/photocards/seventeen/AO_Hope1.jpg",
               "notes": "",
               "owned": 1,
@@ -539,9 +539,9 @@
               "saleNote": ""
             },
             {
-              "id": "hope-02",
+              "id": "an-ode-hope-02",
               "idol": "Seungkwan",
-              "name": "Seungkwan 01",
+              "name": "Seungkwan An Ode Hope 01",
               "image": "/photocards/seventeen/AO_Hope2.jpg",
               "notes": "",
               "owned": 1,
@@ -552,15 +552,15 @@
           ]
         },
         {
-          "id": "real",
+          "id": "an-ode-real",
           "label": "Real Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "real-01",
+              "id": "an-ode-real-01",
               "idol": "Vernon",
-              "name": "Vernon 01",
+              "name": "Vernon An Ode Real 01",
               "image": "/photocards/seventeen/AO_Real1.jpg",
               "notes": "",
               "owned": 1,
@@ -581,15 +581,15 @@
       "albumName": "Attacca",
       "versions": [
         {
-          "id": "Carat",
+          "id": "attacca-carat",
           "label": "Carat Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "carat-01",
+              "id": "attacca-carat-01",
               "idol": "Joshua",
-              "name": "Joshua 01",
+              "name": "Joshua Attacca Carat 01",
               "image": "/photocards/seventeen/Att_Carat1.jpg",
               "notes": "",
               "owned": 1,
@@ -598,9 +598,9 @@
               "saleNote": ""
             },
             {
-              "id": "carat-02",
+              "id": "attacca-carat-02",
               "idol": "Hoshi",
-              "name": "Hoshi 01",
+              "name": "Hoshi Attacca Carat 01",
               "image": "/photocards/seventeen/Att_Carat2.jpg",
               "notes": "",
               "owned": 1,
@@ -609,9 +609,9 @@
               "saleNote": ""
             },
             {
-              "id": "carat-03",
+              "id": "attacca-carat-03",
               "idol": "Wonwoo",
-              "name": "Wonwoo 01",
+              "name": "Wonwoo Attacca Carat 01",
               "image": "/photocards/seventeen/Att_Carat3.jpg",
               "notes": "",
               "owned": 1,
@@ -620,9 +620,9 @@
               "saleNote": ""
             },
             {
-              "id": "carat-04",
+              "id": "attacca-carat-04",
               "idol": "Seungkwan",
-              "name": "Seungkwan 01",
+              "name": "Seungkwan Attacca Carat 01",
               "image": "/photocards/seventeen/Att_Carat4.jpg",
               "notes": "",
               "owned": 1,
@@ -631,9 +631,9 @@
               "saleNote": ""
             },
             {
-              "id": "carat-05",
+              "id": "attacca-carat-05",
               "idol": "Dino",
-              "name": "Dino 01",
+              "name": "Dino Attacca Carat 01",
               "image": "/photocards/seventeen/Att_Carat5.jpg",
               "notes": "",
               "owned": 1,
@@ -654,15 +654,15 @@
       "albumName": "Face the Sun",
       "versions": [
         {
-          "id": "ep1-control",
+          "id": "fts-ep1-control",
           "label": "EP 1: Control Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "ep1-control-01",
+              "id": "fts-ep1-control-01",
               "idol": "Woozi",
-              "name": "Woozi 01",
+              "name": "Woozi Face the Sun EP 1: Control 01",
               "image": "/photocards/seventeen/FTS_EP1Control1.jpg",
               "notes": "",
               "owned": 1,
@@ -671,9 +671,9 @@
               "saleNote": ""
             },
             {
-              "id": "ep1-control-02",
+              "id": "fts-ep1-control-02",
               "idol": "Seungkwan",
-              "name": "Seungkwan 01",
+              "name": "Seungkwan Face the Sun EP 1: Control 01",
               "image": "/photocards/seventeen/FTS_EP1Control2.jpg",
               "notes": "",
               "owned": 1,
@@ -684,15 +684,15 @@
           ]
         },
         {
-          "id": "ep5-pioneer",
+          "id": "fts-ep5-pioneer",
           "label": "EP 5: Pioneer Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "ep5-pioneer-01",
+              "id": "fts-ep5-pioneer-01",
               "idol": "Dokyeom",
-              "name": "Dokyeom 01",
+              "name": "Dokyeom Face the Sun EP 5: Pioneer 01",
               "image": "/photocards/seventeen/FTS_EP5Pioneer1.jpg",
               "notes": "",
               "owned": 1,
@@ -703,15 +703,15 @@
           ]
         },
         {
-          "id": "Carat",
+          "id": "fts-carat",
           "label": "Carat Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "carat-01",
+              "id": "fts-carat-01",
               "idol": "Hoshi",
-              "name": "Hoshi 01",
+              "name": "Hoshi Face the Sun Carat 01",
               "image": "/photocards/seventeen/FTS_Carat.jpg",
               "notes": "",
               "owned": 1,
@@ -732,15 +732,15 @@
       "albumName": "Sector 17",
       "versions": [
         {
-          "id": "new-beginning",
+          "id": "sector17-new-beginning",
           "label": "New Beginning Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "new-beginning-01",
+              "id": "sector17-new-beginning-01",
               "idol": "Vernon",
-              "name": "Vernon 01",
+              "name": "Vernon Sector 17 New Beginning 01",
               "image": "/photocards/seventeen/s17_newbeg.jpg",
               "notes": "",
               "owned": 1,
@@ -752,7 +752,6 @@
         }
       ]
     },
-
     {
       "id": "FML",
       "releaseYear": 2023,
@@ -761,15 +760,15 @@
       "albumName": "FML",
       "versions": [
         {
-          "id": "Carat",
+          "id": "FML-Carat",
           "label": "Carat Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "carat-01",
+              "id": "FML-Carat-01",
               "idol": "Mingyu",
-              "name": "Mingyu 01",
+              "name": "Mingyu FML Carat 01",
               "image": "/photocards/seventeen/FML_Carat1.jpg",
               "notes": "",
               "owned": 1,
@@ -778,9 +777,9 @@
               "saleNote": ""
             },
             {
-              "id": "carat-02",
+              "id": "FML-Carat-02",
               "idol": "Dokyeom",
-              "name": "Dokyeom 01",
+              "name": "Dokyeom FML Carat 01",
               "image": "/photocards/seventeen/FML_Carat2.jpg",
               "notes": "",
               "owned": 1,
@@ -789,9 +788,9 @@
               "saleNote": ""
             },
             {
-              "id": "carat-03",
+              "id": "FML-Carat-03",
               "idol": "Vernon",
-              "name": "Vernon 01",
+              "name": "Vernon FML Carat 01",
               "image": "/photocards/seventeen/FML_Carat3.jpg",
               "notes": "",
               "owned": 1,
@@ -800,9 +799,9 @@
               "saleNote": ""
             },
             {
-              "id": "carat-04",
+              "id": "FML-Carat-04",
               "idol": "Dino",
-              "name": "Dino 01",
+              "name": "Dino FML Carat 01",
               "image": "/photocards/seventeen/FML_Carat4.jpg",
               "notes": "",
               "owned": 1,
@@ -814,7 +813,6 @@
         }
       ]
     }
-
 
 
 

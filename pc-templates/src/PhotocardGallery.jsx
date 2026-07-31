@@ -134,32 +134,29 @@ function uniqueSorted(values) {
 }
 
 function compareCards(a, b, field) {
+  const byGroup = () => normalize(a.group).localeCompare(normalize(b.group));
+  const byAlbum = () => normalize(a.albumName).localeCompare(normalize(b.albumName));
+  const byVersion = () => a.versionOrder - b.versionOrder;
+  const byIdol = () => normalize(a.idol).localeCompare(normalize(b.idol));
+  const byName = () => normalize(a.cardName).localeCompare(normalize(b.cardName));
+  const byRelease = () => {
+    const ar = a.releaseDate ? new Date(a.releaseDate).getTime() : 0;
+    const br = b.releaseDate ? new Date(b.releaseDate).getTime() : 0;
+    return ar - br;
+  };
+
   switch (field) {
-    case "release": {
-      const ar = a.releaseDate ? new Date(a.releaseDate).getTime() : 0;
-      const br = b.releaseDate ? new Date(b.releaseDate).getTime() : 0;
-      return ar - br || normalize(a.albumName).localeCompare(normalize(b.albumName));
-    }
+    case "release":
+      return byRelease() || byAlbum() || byVersion() || byGroup() || byIdol();
     case "group":
-      return (
-        normalize(a.group).localeCompare(normalize(b.group)) ||
-        normalize(a.albumName).localeCompare(normalize(b.albumName)) ||
-        a.versionOrder - b.versionOrder
-      );
+      return byGroup() || byAlbum() || byVersion() || byIdol();
     case "idol":
-      return (
-        normalize(a.idol).localeCompare(normalize(b.idol)) ||
-        normalize(a.albumName).localeCompare(normalize(b.albumName))
-      );
+      return byIdol() || byAlbum() || byVersion() || byGroup();
     case "name":
-      return normalize(a.cardName).localeCompare(normalize(b.cardName));
+      return byName() || byAlbum() || byVersion() || byGroup() || byIdol();
     case "album":
     default:
-      return (
-        normalize(a.albumName).localeCompare(normalize(b.albumName)) ||
-        a.versionOrder - b.versionOrder ||
-        normalize(a.idol).localeCompare(normalize(b.idol))
-      );
+      return byAlbum() || byVersion() || byGroup() || byIdol();
   }
 }
 
