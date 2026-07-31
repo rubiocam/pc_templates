@@ -1099,33 +1099,7 @@
     "canvaUrl": "https://canva.link/g5339eporh3eq6r",
     "note": "This is a list of cards that I am currently in search of, but check the Canva link for for the most current wishlist. ^^",
     "cards": [
-      {
-        "id": "wishlist-01",
-        "idol": "Wonyoung",
-        "cardName": "Wonyoung ON Ver.",
-        "albumName": "IVE SWITCH",
-        "versionLabel": "ON Ver.",
-        "image": "",
-        "note": ""
-      },
-      {
-        "id": "wishlist-02",
-        "idol": "Rei",
-        "cardName": "Rei B Ver.",
-        "albumName": "I'VE MINE",
-        "versionLabel": "B Ver.",
-        "image": "",
-        "note": ""
-      },
-      {
-        "id": "wishlist-03",
-        "idol": "Gaeul",
-        "cardName": "Gaeul A Ver.",
-        "albumName": "LOVE DIVE",
-        "versionLabel": "A Ver.",
-        "image": "",
-        "note": ""
-      }
+      
     ]
   }
 }
