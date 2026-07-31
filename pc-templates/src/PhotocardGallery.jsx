@@ -78,6 +78,18 @@ function normalize(str) {
   return String(str ?? "").toLowerCase().trim();
 }
 
+function resolveImageSrc(path) {
+  if (!path) return "";
+  // Full URLs (external images) and data URIs are used as-is.
+  if (/^(https?:)?\/\//i.test(path) || path.startsWith("data:")) return path;
+  // Root-relative local paths (e.g. "/photocards/foo.jpg") need the
+  // Vite base prefix so they resolve correctly under a GitHub Pages
+  // project subpath like /pc_templates/.
+  const base = import.meta.env.BASE_URL; // e.g. "/pc_templates/"
+  const cleanPath = path.replace(/^\/+/, "");
+  return `${base}${cleanPath}`;
+}
+
 function flattenAlbums(albums) {
   const flat = [];
 
@@ -180,7 +192,7 @@ function CardTile({ card, view, tooltipOpen, onToggleTooltip }) {
   const hasInfo = Boolean(card.tradeNote || card.salePrice != null);
 
   const image = card.image ? (
-    <img src={card.image} alt={`${card.idol} - ${card.albumName} ${card.versionLabel}`} loading="lazy" />
+    <img src={resolveImageSrc(card.image)} alt={`${card.idol} - ${card.albumName} ${card.versionLabel}`} loading="lazy" />
   ) : (
     <div className="card-image-placeholder">No image</div>
   );
@@ -275,7 +287,7 @@ function WishlistPage({ wishlist }) {
             <article className="card-tile" key={card.id}>
               <div className="card-image">
                 {card.image ? (
-                  <img src={card.image} alt={`${card.idol} - ${card.cardName}`} loading="lazy" />
+                  <img src={resolveImageSrc(card.image)} alt={`${card.idol} - ${card.cardName}`} loading="lazy" />
                 ) : (
                   <div className="card-image-placeholder">No image</div>
                 )}
