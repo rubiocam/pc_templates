@@ -360,8 +360,8 @@
           "cards": [
             {
               "id": "target-01",
-              "idol": "Jeongyeon",
-              "name": "Jeongyeon 01",
+              "idol": "Tzuyu",
+              "name": "Tzuyu 01",
               "image": "/photocards/twice/RTB_T.jpg",
               "notes": "",
               "owned": 2,
@@ -372,7 +372,450 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": "strategy",
+      "releaseYear": 2024,
+      "releaseDate": "2024-12-06",
+      "group": "Twice",
+      "albumName": "Strategy",
+      "versions": [
+        {
+          "id": " target",
+          "label": "Target Exclusive.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "target-01",
+              "idol": "Dahyun",
+              "name": "Dahyun 01",
+              "image": "/photocards/twice/Strat_T.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "this-is-for",
+      "releaseYear": 2025,
+      "releaseDate": "2025-07-11",
+      "group": "Twice",
+      "albumName": "This Is For",
+      "versions": [
+        {
+          "id": "is",
+          "label": "Is Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "is-01",
+              "idol": "Momo",
+              "name": "Momo 01",
+              "image": "/photocards/twice/TIF_Is_POB1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "is-02",
+              "idol": "Dahyun",
+              "name": "Dahyun 01",
+              "image": "/photocards/twice/TIF_Is_POB2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "is-03",
+              "idol": "Chaeyoung",
+              "name": "Chaeyoung 01",
+              "image": "/photocards/twice/TIF_Is_POB3.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "is-04",
+              "idol": "Tzuyu",
+              "name": "Tzuyu 01",
+              "image": "/photocards/twice/TIF_Is_POB4.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "for",
+          "label": "For Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "for-01",
+              "idol": "Jihyo",
+              "name": "Jihyo 01",
+              "image": "/photocards/twice/TIF_For1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": "DM me on my Instagram!"
+            },
+            {
+              "id": "for-02",
+              "idol": "Chaeyoung",
+              "name": "Chaeyoung 01",
+              "image": "/photocards/twice/TIF_For2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": "DM me on my Instagram!"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "an-ode",
+      "releaseYear": 2019,
+      "releaseDate": "2019-09-16",
+      "group": "Seventeen",
+      "albumName": "An Ode",
+      "versions": [
+        {
+          "id": "Begin",
+          "label": "Begin Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "begin-01",
+              "idol": "Woozi",
+              "name": "Woozi 01",
+              "image": "/photocards/seventeen/AO_Begin1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "Hope",
+          "label": "Hope Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "hope-01",
+              "idol": "Jeonghan",
+              "name": "Jeonghan 01",
+              "image": "/photocards/seventeen/AO_Hope1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "hope-02",
+              "idol": "Seungkwan",
+              "name": "Seungkwan 01",
+              "image": "/photocards/seventeen/AO_Hope2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "real",
+          "label": "Real Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "real-01",
+              "idol": "Vernon",
+              "name": "Vernon 01",
+              "image": "/photocards/seventeen/AO_Real1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "Attacca",
+      "releaseYear": 2021,
+      "releaseDate": "2021-10-22",
+      "group": "Seventeen",
+      "albumName": "Attacca",
+      "versions": [
+        {
+          "id": "Carat",
+          "label": "Carat Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "carat-01",
+              "idol": "Joshua",
+              "name": "Joshua 01",
+              "image": "/photocards/seventeen/Att_Carat1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-02",
+              "idol": "Hoshi",
+              "name": "Hoshi 01",
+              "image": "/photocards/seventeen/Att_Carat2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-03",
+              "idol": "Wonwoo",
+              "name": "Wonwoo 01",
+              "image": "/photocards/seventeen/Att_Carat3.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-04",
+              "idol": "Seungkwan",
+              "name": "Seungkwan 01",
+              "image": "/photocards/seventeen/Att_Carat4.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-05",
+              "idol": "Dino",
+              "name": "Dino 01",
+              "image": "/photocards/seventeen/Att_Carat5.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "Face the Sun",
+      "releaseYear": 2022,
+      "releaseDate": "2022-05-27",
+      "group": "Seventeen",
+      "albumName": "Face the Sun",
+      "versions": [
+        {
+          "id": "ep1-control",
+          "label": "EP 1: Control Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ep1-control-01",
+              "idol": "Woozi",
+              "name": "Woozi 01",
+              "image": "/photocards/seventeen/FTS_EP1Control1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "ep1-control-02",
+              "idol": "Seungkwan",
+              "name": "Seungkwan 01",
+              "image": "/photocards/seventeen/FTS_EP1Control2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ep5-pioneer",
+          "label": "EP 5: Pioneer Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ep5-pioneer-01",
+              "idol": "Dokyeom",
+              "name": "Dokyeom 01",
+              "image": "/photocards/seventeen/FTS_EP5Pioneer1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "Carat",
+          "label": "Carat Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "carat-01",
+              "idol": "Hoshi",
+              "name": "Hoshi 01",
+              "image": "/photocards/seventeen/FTS_Carat.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "sector17",
+      "releaseYear": 2022,
+      "releaseDate": "2022-07-18",
+      "group": "Seventeen",
+      "albumName": "Sector 17",
+      "versions": [
+        {
+          "id": "new-beginning",
+          "label": "New Beginning Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "new-beginning-01",
+              "idol": "Vernon",
+              "name": "Vernon 01",
+              "image": "/photocards/seventeen/s17_newbeg.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "FML",
+      "releaseYear": 2023,
+      "releaseDate": "2023-04-24",
+      "group": "Seventeen",
+      "albumName": "FML",
+      "versions": [
+        {
+          "id": "Carat",
+          "label": "Carat Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "carat-01",
+              "idol": "Mingyu",
+              "name": "Mingyu 01",
+              "image": "/photocards/seventeen/FML_Carat1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-02",
+              "idol": "Dokyeom",
+              "name": "Dokyeom 01",
+              "image": "/photocards/seventeen/FML_Carat2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-03",
+              "idol": "Vernon",
+              "name": "Vernon 01",
+              "image": "/photocards/seventeen/FML_Carat3.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "carat-04",
+              "idol": "Dino",
+              "name": "Dino 01",
+              "image": "/photocards/seventeen/FML_Carat4.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
     }
+
+
 
 
   ],
