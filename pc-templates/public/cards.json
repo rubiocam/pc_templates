@@ -574,7 +574,7 @@
     },
 
     {
-      "id": "Attacca",
+      "id": "attacca",
       "releaseYear": 2021,
       "releaseDate": "2021-10-22",
       "group": "Seventeen",
@@ -647,7 +647,7 @@
     },
 
     {
-      "id": "Face the Sun",
+      "id": "face-the-sun",
       "releaseYear": 2022,
       "releaseDate": "2022-05-27",
       "group": "Seventeen",
@@ -812,7 +812,254 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": "christman-evel",
+      "releaseYear": 2021,
+      "releaseDate": "2021-11-29",
+      "group": "Stray Kids",
+      "albumName": "Christmas EveL",
+      "versions": [
+        {
+          "id": "christman-evel-pob",
+          "label": "Christmas EveL POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "christman-evel-pob-01",
+              "idol": "Hyunjin",
+              "name": "Hyunjin Christmas EveL POB 01",
+              "image": "/photocards/straykids/CE_POB1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "christman-evel-pob-02",
+              "idol": "Seungmin",
+              "name": "Seungmin Christmas EveL POB 01",
+              "image": "/photocards/straykids/CE_POB2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "oddinary",
+      "releaseYear": 2022,
+      "releaseDate": "2022-03-18",
+      "group": "Stray Kids",
+      "albumName": "Oddinary",
+      "versions": [
+        {
+          "id": "oddinary-frankenstein",
+          "label": "Frankenstein Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "oddinary-frankenstein-01",
+              "idol": "Han",
+              "name": "Han Oddinary Frankenstein 01",
+              "image": "/photocards/straykids/ODD_FS1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "5star",
+      "releaseYear": 2023,
+      "releaseDate": "2023-06-02",
+      "group": "Stray Kids",
+      "albumName": "5-Star",
+      "versions": [
+        {
+          "id": "5star-A",
+          "label": "A Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "5star-A-01",
+              "idol": "Changbin",
+              "name": "Changbin 5-Star A 01",
+              "image": "/photocards/straykids/5star_A.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "5star-B",
+          "label": "B Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "5star-B-01",
+              "idol": "I.N",
+              "name": "I.N 5-Star B 01",
+              "image": "/photocards/straykids/5star_B.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "be-aware",
+      "releaseYear": 2022,
+      "releaseDate": "2022-08-16",
+      "group": "The Boyz",
+      "albumName": "Be Aware",
+      "versions": [
+        {
+          "id": "be-aware-kit",
+          "label": "Kit Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "be-aware-kit-01",
+              "idol": "Ju Haknyeon",
+              "name": "Ju Haknyeon Be Aware Kit 01",
+              "image": "/photocards/tbz/bAware_kit1.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "be-aware-kit-02",
+              "idol": "Sunwoo",
+              "name": "Sunwoo Be Aware Kit 01",
+              "image": "/photocards/tbz/bAware_kit2.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "be-awake",
+      "releaseYear": 2023,
+      "releaseDate": "2023-02-21",
+      "group": "The Boyz",
+      "albumName": "Be Awake",
+      "versions": [
+        {
+          "id": "be-awake-reach",
+          "label": "Reach Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "be-awake-reach-01",
+              "idol": "New",
+              "name": "New Be Awake Reach 01",
+              "image": "/photocards/tbz/bAwake_reach.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "how",
+      "releaseYear": 2024,
+      "releaseDate": "2024-04-15",
+      "group": "Boynextdoor",
+      "albumName": "How?",
+      "versions":[
+        {
+          "id": "how-wind",
+          "label": "Wind Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "how-wind-01",
+              "idol": "Sungho",
+              "name": "Sungho How? Wind 01",
+              "image": "/photocards/bnd/how_wind.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ] 
+    },
+
+
+    {
+      "id": "19.99",
+      "releaseYear": 2024,
+      "releaseDate": "2024-09-04",
+      "group": "Boynextdoor",
+      "albumName": "19.99",
+      "versions":[
+        {
+          "id": "1999-id",
+          "label": "1999 ID Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "1999-id-card-01",
+              "idol": "Taesan",
+              "name": "Taesan 19.99 ID Card 01",
+              "image": "/photocards/bnd/1999_ID.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
     }
+
+
 
 
 
