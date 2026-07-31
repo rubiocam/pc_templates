@@ -335,7 +335,7 @@ export default function PhotocardGallery() {
         setLoading(true);
         setError("");
 
-        const response = await fetch("/cards.json", { cache: "no-store" });
+        const response = await fetch(`${import.meta.env.BASE_URL}cards.json`, { cache: "no-store" });
         if (!response.ok) {
           throw new Error(`Unable to load cards.json (${response.status})`);
         }
