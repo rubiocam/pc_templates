@@ -1057,8 +1057,38 @@
           ]
         }
       ]
+    },
+
+    {
+      "id": "only-one",
+      "releaseYear": 2023,
+      "releaseDate": "2023-11-23",
+      "group": "soloist",
+      "albumName": "Only One",
+      "versions":[
+        {
+          "id": "only-one-begin",
+          "label": "Begin Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "only-one-begin-01",
+              "idol": "Bang Yedam",
+              "name": "Bang Yedam Only One Begin 01",
+              "image": "/photocards/soloists/onlyone_begin.jpg",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
     }
 
+ 
 
 
 
