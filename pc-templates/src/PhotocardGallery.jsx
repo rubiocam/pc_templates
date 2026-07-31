@@ -248,7 +248,7 @@ function WishlistPage({ wishlist }) {
           <Heart className="icon-sm" />
           Wishlist
         </p>
-        <h1>Cards I'm looking for</h1>
+        <h1>My high ISO cards</h1>
         {wishlist?.note ? <p className="gallery-subtitle">{wishlist.note}</p> : null}
 
         {wishlist?.canvaUrl ? (
