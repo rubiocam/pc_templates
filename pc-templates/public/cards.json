@@ -770,7 +770,7 @@
               "name": "Mark 2 Baddies 2 Baddies 01",
               "image": "/photocards/NCT127/2b_2baddies.png",
               "notes": "",
-              "owned": 1,
+              "owned": 3,
               "tradeNote": "Any photocard on my wishlist.",
               "salePrice": 4,
               "saleNote": ""
@@ -789,7 +789,7 @@
               "name": "Mark 2 Baddies Digipack 01",
               "image": "/photocards/NCT127/2b_digi1.png",
               "notes": "",
-              "owned": 3,
+              "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
               "salePrice": 4,
               "saleNote": ""
@@ -800,7 +800,7 @@
               "name": "Haechan 2 Baddies Digipack 01",
               "image": "/photocards/NCT127/2b_digi2.png",
               "notes": "",
-              "owned": 3,
+              "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
               "salePrice": 4,
               "saleNote": ""
@@ -1081,6 +1081,402 @@
     },
 
     {
+      "id": "ay-yo",
+      "releaseYear": 2023,
+      "releaseDate": "2023-01-30",
+      "group": "NCT 127",
+      "albumName": "Ay-Yo",
+      "versions": [
+        {
+          "id": "ay-yo-aphotobook",
+          "label": "A Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-aphotobook-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo A Photobook 01",
+              "image": "/photocards/NCT127/ay_pba.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-bphotobook",
+          "label": "B Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-bphotobook-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo B Photobook 01",
+              "image": "/photocards/NCT127/ay_pbb.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-digipack",
+          "label": "Digipack Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-digipack-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Digipack 01",
+              "image": "/photocards/NCT127/ay_digi.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-smini",
+          "label": "SMini Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-smini-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo SMini 01",
+              "image": "/photocards/NCT127/ay_smini.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-tc",
+          "label": "Trading Card",
+          "type": "Trading Card",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-tc-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Trading Card 01",
+              "image": "/photocards/NCT127/ay_tc.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-mumo-digi",
+          "label": "Mumo Digipack POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-mumo-digi-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Mumo Digipack 01",
+              "image": "/photocards/NCT127/ay_mumodigi.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-mumo-pb",
+          "label": "Mumo Photobook POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-mumo-pb-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Mumo Photobook 01",
+              "image": "/photocards/NCT127/ay_mumopb.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-applemusic",
+          "label": "Apple Music POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-applemusic-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Applemusic 01",
+              "image": "/photocards/NCT127/ay_applemusic.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-soundwave",
+          "label": "Soundwave POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-soundwave-02",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Soundwave 02",
+              "image": "/photocards/NCT127/ay_soundwave2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            },
+            {
+              "id": "ay-yo-soundwave-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Soundwave 01",
+              "image": "/photocards/NCT127/ay_soundwave1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-makestar",
+          "label": "Makestar POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-makestar-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Makestar 01",
+              "image": "/photocards/NCT127/ay_makestar.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "ay-yo-musicplant",
+          "label": "Musicplant POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ay-yo-musicplant-01",
+              "idol": "Mark",
+              "name": "Mark Ay-Yo Musicplant 01",
+              "image": "/photocards/NCT127/ay_musicplant.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        }
+        
+      ]
+    },
+    
+    {
+      "id": "fact-check",
+      "releaseYear": 2023,
+      "releaseDate": "2023-10-06",
+      "group": "NCT 127",
+      "albumName": "Fact Check",
+      "versions": [
+        {
+          "id": "fact-check-chandelier",
+          "label": "Chandelier Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "fact-check-chandelier-01",
+              "idol": "Mark",
+              "name": "Mark Fact Check Chandelier 01",
+              "image": "/photocards/NCT127/fc_chandelier.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "fact-check-exhibit",
+          "label": "Exhibit Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "fact-check-exhibit-01",
+              "idol": "Mark",
+              "name": "Mark Fact Check Exhibit 01",
+              "image": "/photocards/NCT127/fc_exhibit.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "fact-check-storage",
+          "label": "Storage Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "fact-check-storage-01",
+              "idol": "Mark",
+              "name": "Mark Fact Check Storage 01",
+              "image": "/photocards/NCT127/fc_storage.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "fact-check-qr",
+          "label": "QR Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "fact-check-qr-01",
+              "idol": "Mark",
+              "name": "Mark Fact Check QR 01",
+              "image": "/photocards/NCT127/fc_qr.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "fact-check-smini",
+          "label": "SMini Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "fact-check-smini-01",
+              "idol": "Mark",
+              "name": "Mark Fact Check SMini 01",
+              "image": "/photocards/NCT127/fc_smini.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "fact-check-target",
+          "label": "Target Exclusive.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "fact-check-target-01",
+              "idol": "Yuta",
+              "name": "Yuta Fact Check Target 01",
+              "image": "/photocards/NCT127/fc_target1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "fact-check-target-02",
+              "idol": "Doyoung",
+              "name": "Doyoung Fact Check Target 01",
+              "image": "/photocards/NCT127/fc_target2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "fact-check-target-03",
+              "idol": "Mark",
+              "name": "Mark Fact Check Target 03",
+              "image": "/photocards/NCT127/fc_target3.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "fact-check-everline",
+          "label": "Everline POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "fact-check-everline-01",
+              "idol": "Mark",
+              "name": "Mark Fact Check Everline 01",
+              "image": "/photocards/NCT127/fc_everline.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
       "id": "blue-valentine",
       "releaseYear": 2025,
       "releaseDate": "2025-10-13",
@@ -1266,7 +1662,7 @@
               "name": "Jeongyeon Ready To Be To 01",
               "image": "/photocards/twice/RTB_To1.jpg",
               "notes": "",
-              "owned": 2,
+              "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
               "salePrice": 4,
               "saleNote": "DM me on my Instagram!"
