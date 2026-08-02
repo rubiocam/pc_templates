@@ -9,7 +9,7 @@
       "versions": [
         {
           "id": "zine",
-          "label": "Zine Ver.",
+          "label": "WYLD Zine Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
@@ -50,7 +50,7 @@
         },
         {
           "id": "jewelcase",
-          "label": "Jewel Case Ver.",
+          "label": "WYLD Jewel Case Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
@@ -120,7 +120,7 @@
               "image": "/photocards/NCTSolos/stunneryouare.jpg",
               "notes": "",
               "owned": 1,
-              "tradeNote": "Any I Am version card I don't have, see wishlist for moredetails.",
+              "tradeNote": "Any I Am version card I don't have, see wishlist for more details.",
               "salePrice": null,
               "saleNote": ""
             }
@@ -129,8 +129,959 @@
       ]
     },
 
+
     {
-      "id": "bluevalentine",
+      "id": "nct127-1st-ep",
+      "releaseYear": 2016,
+      "releaseDate": "2016-07-10",
+      "group": "NCT 127",
+      "albumName": "NCT #127",
+      "versions":[
+        {
+          "id": "NCT127-Photobook",
+          "label": "Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "nct127-01",
+              "idol": "Mark",
+              "name": "Mark NCT #127 01",
+              "image": "/photocards/NCT127/FT1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "nct127-02",
+              "idol": "Mark",
+              "name": "Mark NCT #127 02",
+              "image": "/photocards/NCT127/FT2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+     {
+      "id": "cherry-bomb",
+      "releaseYear": 2017,
+      "releaseDate": "2017-06-14",
+      "group": "NCT 127",
+      "albumName": "Cherry Bomb",
+      "versions": [
+        {
+          "id": "cherry-bomb-photobook",
+          "label": "Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "cherry-bomb-01",
+              "idol": "Mark",
+              "name": "Mark Cherry Bomb Photobook 01",
+              "image": "/photocards/NCT127/cb1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "reg-irreg",
+      "releaseYear": 2018,
+      "releaseDate": "2018-10-12",
+      "group": "NCT 127",
+      "albumName": "Regular-Irregular",
+      "versions": [
+        {
+          "id": "regular",
+          "label": "Regular Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ri-regular-01",
+              "idol": "Mark",
+              "name": "Mark Regular-Irregular Regular 01",
+              "image": "/photocards/NCT127/ri_regular.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "irregular",
+          "label": "Irregular Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "ri-irregular-01",
+              "idol": "Mark",
+              "name": "Mark Regular-Irregular Irregular 01",
+              "image": "/photocards/NCT127/ri_irregular.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "regulate",
+      "releaseYear": 2018,
+      "releaseDate": "2018-11-23",
+      "group": "NCT 127",
+      "albumName": "Regulate",
+      "versions": [
+        {
+          "id": "regulate-photobook",
+          "label": "Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "regulate-01",
+              "idol": "Mark",
+              "name": "Mark Regulate Photobook 01",
+              "image": "/photocards/NCT127/regulate.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "superhuman",
+      "releaseYear": 2017,
+      "releaseDate": "2019-05-24",
+      "group": "NCT 127",
+      "albumName": "We Are Superhuman",
+      "versions": [
+        {
+          "id": "superhuman-photobook",
+          "label": "Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "superhuman-photobook-01",
+              "idol": "Mark",
+              "name": "Mark Superhuman Photobook 01",
+              "image": "/photocards/NCT127/sh_pb.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "superhuman-kihno",
+          "label": "Kihno Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "superhuman-kihno-01",
+              "idol": "Mark",
+              "name": "Mark Superhuman Kihno 01",
+              "image": "/photocards/NCT127/sh_kih.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    
+    {
+      "id": "neo-zone",
+      "releaseYear": 2018,
+      "releaseDate": "2020-03-06",
+      "group": "NCT 127",
+      "albumName": "Neo Zone",
+      "versions": [
+        {
+          "id": "neozone-n",
+          "label": "N Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "neo-zone-n-01",
+              "idol": "Jaehyun",
+              "name": "Jaehyun Neo Zone N 01",
+              "image": "/photocards/NCT127/nz_n1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "neo-zone-n-02",
+              "idol": "Mark",
+              "name": "Mark Neo Zone N 01",
+              "image": "/photocards/NCT127/nz_n2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "neozone-c",
+          "label": "C Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "neo-zone-c-01",
+              "idol": "Mark",
+              "name": "Mark Neo Zone C 01",
+              "image": "/photocards/NCT127/nz_c.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "neozone-t",
+          "label": "T Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "neo-zone-t-01",
+              "idol": "Mark",
+              "name": "Mark Neo Zone T 01",
+              "image": "/photocards/NCT127/nz_t.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "neozone-kih",
+          "label": "Kihno Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "neo-zone-kih-01",
+              "idol": "Mark",
+              "name": "Mark Neo Zone Kihno 01",
+              "image": "/photocards/NCT127/nz_kih.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "neo-zone-final-round",
+      "releaseYear": 2020,
+      "releaseDate": "2020-05-19",
+      "group": "NCT 127",
+      "albumName": "Neo Zone The Final Round",
+      "versions": [
+        {
+          "id": "nzfr-fp",
+          "label": "1st Player Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "1st-player-01",
+              "idol": "Mark",
+              "name": "Mark nzfr 1st Player 01",
+              "image": "/photocards/NCT127/nzfr_1p.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "nzfr-sp",
+          "label": "2nd Player Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2nd-player-01",
+              "idol": "Jungwoo",
+              "name": "Jungwoo nzfr 2nd Player 01",
+              "image": "/photocards/NCT127/nzfr_2p1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "2nd-player-02",
+              "idol": "Mark",
+              "name": "Mark nzfr 2nd Player 02",
+              "image": "/photocards/NCT127/nzfr_2p2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "nzfr-fp-kih",
+          "label": "1st Player Kihno Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "1st-player-kih-01",
+              "idol": "Mark",
+              "name": "Mark nzfr 1st Player Kihno 01",
+              "image": "/photocards/NCT127/nzfr_1pkih.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "nzfr-sp-kih",
+          "label": "2nd Player Kihno Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2nd-player-kih-01",
+              "idol": "Mark",
+              "name": "Mark nzfr 2nd Player Kihno 01",
+              "image": "/photocards/NCT127/nzfr_2pkih.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "sticker",
+      "releaseYear": 2021,
+      "releaseDate": "2021-09-17",
+      "group": "NCT 127",
+      "albumName": "Sticker",
+      "versions": [
+        {
+          "id": "sticker-sticky",
+          "label": "Sticky Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "sticker-sticky-01",
+              "idol": "Mark",
+              "name": "Mark Sticker Sticky 01",
+              "image": "/photocards/NCT127/sti_sticky.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "sticker-seoul-city",
+          "label": "Seoul City Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "sticker-seoul-city-01",
+              "idol": "Mark",
+              "name": "Mark Sticker Seoul City 01",
+              "image": "/photocards/NCT127/sti_seoulcity.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "sticker-sticker",
+          "label": "Sticker Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "sticker-sticker-01",
+              "idol": "Mark",
+              "name": "Mark Sticker sticker 01",
+              "image": "/photocards/NCT127/sti_sticker.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "sticker-ar-photocard",
+          "label": "AR Photocard Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "sticker-ar-photocard-01",
+              "idol": "Mark",
+              "name": "Mark Sticker AR Photocard 01",
+              "image": "/photocards/NCT127/sti_arpc.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "sticker-ar-clipcard",
+          "label": "AR Clipcard Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "sticker-ar-clipcard-01",
+              "idol": "Jungwoo",
+              "name": "Jungwoo Sticker AR Clipcard 01",
+              "image": "/photocards/NCT127/sti_arclip1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "sticker-ar-clipcard-02",
+              "idol": "Mark",
+              "name": "Mark Sticker AR Clipcard 02",
+              "image": "/photocards/NCT127/sti_arclip2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "favorite",
+      "releaseYear": 2021,
+      "releaseDate": "2021-10-25",
+      "group": "NCT 127",
+      "albumName": "Favorite",
+      "versions": [
+        {
+          "id": "favorite-classic",
+          "label": "Classic Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "favorite-classic-01",
+              "idol": "Mark",
+              "name": "Mark Favorite Classic 01",
+              "image": "/photocards/NCT127/fvr_classic1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "favorite-classic-02",
+              "idol": "Mark",
+              "name": "Mark Favorite Classic 02",
+              "image": "/photocards/NCT127/fvr_classic2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "favorite-catharsis",
+          "label": "Catharsis Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "favorite-catharsis-01",
+              "idol": "Mark",
+              "name": "Mark Favorite Catharsis 01",
+              "image": "/photocards/NCT127/fvr_catharsis.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "favorite-poetic",
+          "label": "Poetic Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "favorite-poetic-01",
+              "idol": "Mark",
+              "name": "Mark Favorite Poetic 01",
+              "image": "/photocards/NCT127/fvr_poetic.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "favorite-tragic",
+          "label": "Tragic Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "favorite-tragic-01",
+              "idol": "Mark",
+              "name": "Mark Favorite Tragic 01",
+              "image": "/photocards/NCT127/fvr_tragic.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "2baddies",
+      "releaseYear": 2018,
+      "releaseDate": "2022-09-16",
+      "group": "NCT 127",
+      "albumName": "2 Baddies",
+      "versions": [
+        {
+          "id": "2baddies-faster",
+          "label": "Faster Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-faster-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Faster 01",
+              "image": "/photocards/NCT127/2b_faster.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-2baddies",
+          "label": "2 Baddies Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-2baddies-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies 2 Baddies 01",
+              "image": "/photocards/NCT127/2b_2baddies.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-digipack",
+          "label": "Digipack Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-digipack-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Digipack 01",
+              "image": "/photocards/NCT127/2b_digi1.png",
+              "notes": "",
+              "owned": 3,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "2baddies-digipack-02",
+              "idol": "Haechan",
+              "name": "Haechan 2 Baddies Digipack 01",
+              "image": "/photocards/NCT127/2b_digi2.png",
+              "notes": "",
+              "owned": 3,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-krpb",
+          "label": "Korean Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-krpb-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Korean Photobook 01",
+              "image": "/photocards/NCT127/2b_krpb.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-krdigi",
+          "label": "Korean Digipack Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-krdigi-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Korean Digipack 01",
+              "image": "/photocards/NCT127/2b_krdigi.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-jppb",
+          "label": "Japanese Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-jppb-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Japanese Photobook 01",
+              "image": "/photocards/NCT127/2b_jppb.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-jpdigi",
+          "label": "Japanese Digipack Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-jpdigi-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Japanese Digipack 01",
+              "image": "/photocards/NCT127/2b_jpdigi.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-ipb",
+          "label": "International Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-ipb-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies International Photobook 01",
+              "image": "/photocards/NCT127/2b_ipb.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-idigi",
+          "label": "International Digipack Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-idigi-01",
+              "idol": "Jaehyun",
+              "name": "Jaehyun 2 Baddies International Digipack 01",
+              "image": "/photocards/NCT127/2b_idigi1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "2baddies-idigi-02",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies International Digipack 01",
+              "image": "/photocards/NCT127/2b_idigi2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-target",
+          "label": "Target Exclusive.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-target-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies International Photobook 01",
+              "image": "/photocards/NCT127/2b_target.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-smc",
+          "label": "SMC Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-smc-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies SMC 01",
+              "image": "/photocards/NCT127/2b_smc.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-smcic",
+          "label": "SMC Image Card",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-smcic-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies SMC Image Card 01",
+              "image": "/photocards/NCT127/2b_smcic.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-nemo",
+          "label": "Nemo Ver",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-nemo-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Nemo 01",
+              "image": "/photocards/NCT127/2b_nemo.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-nemoic",
+          "label": "Nemo Image Card",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-nemoic-01",
+              "idol": "Jaehyun",
+              "name": "Jaehyun 2 Baddies Nemo Image Card 01",
+              "image": "/photocards/NCT127/2b_nemoic1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            },
+            {
+              "id": "2baddies-nemoic-02",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Nemo Image Card 01",
+              "image": "/photocards/NCT127/2b_nemoic2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "2baddies-tc",
+          "label": "Trading Card",
+          "type": "Trading Card",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-tc-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Trading Card 01",
+              "image": "/photocards/NCT127/2b_tcb.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+         {
+          "id": "2baddies-tr",
+          "label": "Tower Records POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "2baddies-tr-01",
+              "idol": "Mark",
+              "name": "Mark 2 Baddies Tower Records 01",
+              "image": "/photocards/NCT127/2b_tr.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        }
+        
+      ]
+    },
+
+    {
+      "id": "blue-valentine",
       "releaseYear": 2025,
       "releaseDate": "2025-10-13",
       "group": "NMIXX",
@@ -177,7 +1128,7 @@
             }
           ]
         },
-        { "id": "makestar",
+        { "id": "bv-makestar",
           "label": "Makestar POB",
           "type": "POB",
           "order": 1,
@@ -200,14 +1151,14 @@
     },
 
     {
-      "id": "heavyserenade",
+      "id": "heavy-serenade",
       "releaseYear": 2026,
       "releaseDate": "2026-05-11",
       "group": "NMIXX",
       "albumName": "Heavy Serenade",
       "versions": [
         {
-          "id": "heavy",
+          "id": "hs-heavy",
           "label": "Heavy Ver.",
           "type": "Ver.",
           "order": 1,
@@ -226,7 +1177,7 @@
           ]
         },
         {
-          "id": "serenade",
+          "id": "hs-serenade",
           "label": "Serenade Ver.",
           "type": "Ver.",
           "order": 1,
@@ -245,7 +1196,7 @@
           ]
         },
         {
-          "id": "applemusiv",
+          "id": "hs-applemusic",
           "label": "Apple Music POB",
           "type": "POB",
           "order": 1,
@@ -354,7 +1305,7 @@
         },
         {
           "id": "target",
-          "label": "Target Exclusive.",
+          "label": "Ready to Be Target Exclusive.",
           "type": "Ver.",
           "order": 1,
           "cards": [
@@ -1039,7 +1990,7 @@
       "versions":[
         {
           "id": "1999-id",
-          "label": "1999 ID Ver.",
+          "label": "19.99 ID Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
