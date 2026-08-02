@@ -74,7 +74,7 @@
           "order": 2,
           "cards": [
             {
-              "id": "zine-kpopnara-01",
+              "id": "wyld-zine-kpopnara-01",
               "idol": "Taeyong",
               "name": "Taeyong Wyld Kpopnara 01",
               "image": "/photocards/NCTSolos/wyldzinekn.jpg",
@@ -85,7 +85,7 @@
               "saleNote": ""
             },
             {
-              "id": "jc-kpopnara-01",
+              "id": "wyld-jc-kpopnara-01",
               "idol": "Taeyong",
               "name": "Taeyong Wyld Kpopnara 02",
               "image": "/photocards/NCTSolos/wyldjckn.jpg",
@@ -108,13 +108,13 @@
       "albumName": "STUNNER",
       "versions": [
         {
-          "id": "youare",
+          "id": "stunner-you-are",
           "label": "You Are Ver.",
           "type": "Ver.",
           "order": 1,
           "cards": [
             {
-              "id": "youare-01",
+              "id": "stunner-you-are-01",
               "idol": "Ten",
               "name": "Ten STUNNER You Are 01",
               "image": "/photocards/NCTSolos/stunneryouare.jpg",
@@ -122,6 +122,278 @@
               "owned": 1,
               "tradeNote": "Any I Am version card I don't have, see wishlist for more details.",
               "salePrice": null,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "first-fruit",
+      "releaseYear": 2025,
+      "releaseDate": "2025-04-07",
+      "group": "Mark",
+      "albumName": "First Fruit",
+      "versions": [
+        {
+          "id": "first-fruit-photobook",
+          "label": "Photobook Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-photobook-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit Photobook 01",
+              "image": "/photocards/NCTSolos/ff_pb1.png",
+              "notes": "",
+              "owned": 2,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-photobook-02",
+              "idol": "Mark",
+              "name": "Mark First Fruit Photobook 02",
+              "image": "/photocards/NCTSolos/ff_pb2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-photobook-03",
+              "idol": "Mark",
+              "name": "Mark First Fruit Photobook 03",
+              "image": "/photocards/NCTSolos/ff_pb3.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "first-fruit-trilogy",
+          "label": "Trilogy Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-trilogy-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit Trilogy 01",
+              "image": "/photocards/NCTSolos/ff_pbt1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-trilogy-02",
+              "idol": "Mark",
+              "name": "Mark First Fruit Trilogy 02",
+              "image": "/photocards/NCTSolos/ff_pbt2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-trilogy-03",
+              "idol": "Mark",
+              "name": "Mark First Fruit Trilogy 03",
+              "image": "/photocards/NCTSolos/ff_pbt3.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "first-fruit-first-juice",
+          "label": "First Juice Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-first-juice-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit First Juice 01",
+              "image": "/photocards/NCTSolos/ff_fj1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 5,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-first-juice-02",
+              "idol": "Mark",
+              "name": "Mark First Fruit first Juice 02",
+              "image": "/photocards/NCTSolos/ff_fj2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 5,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "first-fruit-square-flap",
+          "label": "Square Flap Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-square-flap-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit Square Flap 01",
+              "image": "/photocards/NCTSolos/ff_sf1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-square-flap-02",
+              "idol": "Mark",
+              "name": "Mark First Fruit Square Flap 02",
+              "image": "/photocards/NCTSolos/ff_sf2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-square-flap-03",
+              "idol": "Mark",
+              "name": "Mark First Fruit Square Flap 03",
+              "image": "/photocards/NCTSolos/ff_sf3.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "first-fruit-trading-card",
+          "label": "Trading Card",
+          "type": "Trading Card",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-trading-card-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit Trading Card 01",
+              "image": "/photocards/NCTSolos/ff_tc1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 5,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-trading-card-02",
+              "idol": "Mark",
+              "name": "Mark First Fruit Trading Card 02",
+              "image": "/photocards/NCTSolos/ff_tc2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 3,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "first-fruit-makestar",
+          "label": "Makestar POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-makestar-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit Makestar 01",
+              "image": "/photocards/NCTSolos/ff_makestar1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-makestar-02",
+              "idol": "Mark",
+              "name": "Mark First Fruit Makestar 02",
+              "image": "/photocards/NCTSolos/ff_makestar2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "first-fruit-listening-session",
+          "label": "Listening Session",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-listening-session-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit Listening Session 01",
+              "image": "/photocards/NCTSolos/ff_ls1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            },
+            {
+              "id": "first-fruit-listening-session-02",
+              "idol": "Mark",
+              "name": "Mark First Fruit Listening Session 02",
+              "image": "/photocards/NCTSolos/ff_ls2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "first-fruit-mumo",
+          "label": "Mumo POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "first-fruit-mumo-01",
+              "idol": "Mark",
+              "name": "Mark First Fruit Mumo 01",
+              "image": "/photocards/NCTSolos/ff_mumo.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 5,
               "saleNote": ""
             }
           ]
