@@ -463,13 +463,14 @@ export default function PhotocardGallery() {
             <SlidersHorizontal className="icon-sm" />
             Photocard Collection
           </p>
-          <h1>Showcase your photocards by release, group, and idol</h1>
+          <h1>Here is a comprehensive list of every card I have up for sale/trade!!</h1>
           <p className="gallery-subtitle">
             Every card below is one I own. Hover or tap{" "}
             <span className="inline-tag">
               <Repeat className="icon-xs" /> Trade / sell info
             </span>{" "}
-            on a card to see what I'm asking for it. If you are interested in trading for something I have you can also{" "}
+            on a card to see what I'm asking for it. If you are interested in trading for something I have but don't 
+            have a direct trade you can also{" "}
             <a href="#wishlist" onClick={() => goTo("wishlist")}>
               check my wishlist
             </a>
@@ -496,15 +497,6 @@ export default function PhotocardGallery() {
                 onChange={(e) => setSearch(e.target.value)}
                 placeholder="Search cards, albums, versions, idols..."
               />
-            </label>
-
-            <label className="tradeable-toggle">
-              <input
-                type="checkbox"
-                checked={tradeableOnly}
-                onChange={(e) => setTradeableOnly(e.target.checked)}
-              />
-              Only show cards available to trade or buy
             </label>
 
             <div className="filters-row">
