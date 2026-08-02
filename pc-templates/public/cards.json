@@ -934,7 +934,7 @@
         },
         {
           "id": "2baddies-target",
-          "label": "Target Exclusive.",
+          "label": "Target Exclusive",
           "type": "Ver.",
           "order": 1,
           "cards": [
@@ -1415,7 +1415,7 @@
         },
         {
           "id": "fact-check-target",
-          "label": "Target Exclusive.",
+          "label": "Target Exclusive",
           "type": "Ver.",
           "order": 1,
           "cards": [
@@ -1427,7 +1427,7 @@
               "notes": "",
               "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
-              "salePrice": 4,
+              "salePrice": 6,
               "saleNote": ""
             },
             {
@@ -1438,7 +1438,7 @@
               "notes": "",
               "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
-              "salePrice": 4,
+              "salePrice": 6,
               "saleNote": ""
             },
             {
@@ -1449,7 +1449,7 @@
               "notes": "",
               "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
-              "salePrice": 4,
+              "salePrice": 6,
               "saleNote": ""
             }
           ]
@@ -1468,7 +1468,503 @@
               "notes": "",
               "owned": 1,
               "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "be-there-for-me",
+      "releaseYear": 2018,
+      "releaseDate": "2018-11-23",
+      "group": "NCT 127",
+      "albumName": "Be There For Me",
+      "versions": [
+        {
+          "id": "btfm-stereoa",
+          "label": "Stereo A Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-stereoa-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Stereo A 01",
+              "image": "/photocards/NCT127/btfm_stereoa.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
               "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-stereob",
+          "label": "Stereo B Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-stereob-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Stereo B 01",
+              "image": "/photocards/NCT127/btfm_stereob.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-house",
+          "label": "House Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-house-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me House 01",
+              "image": "/photocards/NCT127/btfm_house1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "btfm-house-02",
+              "idol": "Haechan",
+              "name": "Haechan Be There For Me House 01",
+              "image": "/photocards/NCT127/btfm_house2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-smini",
+          "label": "SMini Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-smini-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me SMini 01",
+              "image": "/photocards/NCT127/btfm_smini.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-target",
+          "label": "Target Exclusive",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-target-01",
+              "idol": "Yuta",
+              "name": "Yuta Be There For Me Target 01",
+              "image": "/photocards/NCT127/btfm_target1.png",
+              "notes": "",
+              "owned": 2,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            },
+            {
+              "id": "btfm-target-02",
+              "idol": "Doyoung",
+              "name": "Doyoung Be There For Me Target 01",
+              "image": "/photocards/NCT127/btfm_target2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            },
+            {
+              "id": "btfm-target-03",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Target 01",
+              "image": "/photocards/NCT127/btfm_target3.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-mumo",
+          "label": "Mumo POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-mumo-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Mumo 01",
+              "image": "/photocards/NCT127/btfm_mumo.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-applemusic",
+          "label": "Apple Music POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-applemusic-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Apple Music 01",
+              "image": "/photocards/NCT127/btfm_applemu.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-ktown",
+          "label": "Ktown4U POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-ktown-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Ktown4U 01",
+              "image": "/photocards/NCT127/btfm_ktown.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-kakaotalk",
+          "label": "Kakaotalk POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-kakaotalk-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Kakaotalkk 01",
+              "image": "/photocards/NCT127/btfm_kakaotalk.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-kpopmerch",
+          "label": "Kpopmerch POB",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-kpopmerch-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Kpopmerch 01",
+              "image": "/photocards/NCT127/btfm_kpopmerch.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "btfm-manilla",
+          "label": "Manilla Applewood Fansign",
+          "type": "POB",
+          "order": 1,
+          "cards": [
+            {
+              "id": "btfm-manilla-01",
+              "idol": "Mark",
+              "name": "Mark Be There For Me Manilla Applewood Fansign 01",
+              "image": "/photocards/NCT127/btfm_manilla.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "walk",
+      "releaseYear": 2024,
+      "releaseDate": "2024-07-15",
+      "group": "NCT 127",
+      "albumName": "Walk",
+      "versions": [
+        {
+          "id": "walk-walk",
+          "label": "Walk Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-walk-01",
+              "idol": "Mark",
+              "name": "Mark Walk Walk 01",
+              "image": "/photocards/NCT127/w_walk.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-podcast",
+          "label": "Podcast Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-podcast-01",
+              "idol": "Johnny",
+              "name": "Johnny Walk Podcast 01",
+              "image": "/photocards/NCT127/w_podcast1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "walk-podcast-02",
+              "idol": "Mark",
+              "name": "Mark Walk Podcast 01",
+              "image": "/photocards/NCT127/w_podcast2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-poster",
+          "label": "Poster Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-poster-01",
+              "idol": "Mark",
+              "name": "Mark Walk Poster 01",
+              "image": "/photocards/NCT127/w_poster1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "walk-poster-02",
+              "idol": "Mark",
+              "name": "Mark Walk Poster 02",
+              "image": "/photocards/NCT127/w_poster2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 2,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-cc",
+          "label": "Walk Crew Character Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-cc-01",
+              "idol": "Mark",
+              "name": "Mark Walk Crew Character 01",
+              "image": "/photocards/NCT127/w_ccc1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "walk-cc-02",
+              "idol": "Mark",
+              "name": "Mark Walk Crew Character 02",
+              "image": "/photocards/NCT127/w_ccc2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-smini",
+          "label": "SMini Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-smini-01",
+              "idol": "Jaehyun",
+              "name": "Jaehyun Walk SMini 01",
+              "image": "/photocards/NCT127/w_smini1.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            },
+            {
+              "id": "walk-smini-02",
+              "idol": "Mark",
+              "name": "Mark Walk SMini 01",
+              "image": "/photocards/NCT127/w_smini2.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-target",
+          "label": "Target Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-target-01",
+              "idol": "Mark",
+              "name": "Mark Walk Target 01",
+              "image": "/photocards/NCT127/w_target.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-japan",
+          "label": "Japan Ver.",
+          "type": "Ver.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-japan-01",
+              "idol": "Mark",
+              "name": "Mark Walk Japan 01",
+              "image": "/photocards/NCT127/w_jp.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 4,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-makestar",
+          "label": "Makestar Video Call Event",
+          "type": "VCE",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-makestar-01",
+              "idol": "Mark",
+              "name": "Mark Walk Makestar Video Call Event 01",
+              "image": "/photocards/NCT127/w_makestar.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-dmm",
+          "label": "Dear My Muse Video Call Event",
+          "type": "VCE",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-dmm-01",
+              "idol": "Mark",
+              "name": "Mark Walk Dear My Muse Video Call Event 01",
+              "image": "/photocards/NCT127/w_dmm.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        },
+        {
+          "id": "walk-applemu",
+          "label": "Apple Music Video Call Event",
+          "type": "VCE",
+          "order": 1,
+          "cards": [
+            {
+              "id": "walk-applemu-01",
+              "idol": "Mark",
+              "name": "Mark Walk Apple Music Video Call Event 01",
+              "image": "/photocards/NCT127/w_applemu.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
               "saleNote": ""
             }
           ]
@@ -1701,7 +2197,7 @@
         },
         {
           "id": "target",
-          "label": "Ready to Be Target Exclusive.",
+          "label": "Target Exclusive",
           "type": "Ver.",
           "order": 1,
           "cards": [
@@ -1730,7 +2226,7 @@
       "versions": [
         {
           "id": "strategy-target",
-          "label": "Target Exclusive.",
+          "label": "Target Exclusive",
           "type": "Ver.",
           "order": 1,
           "cards": [
