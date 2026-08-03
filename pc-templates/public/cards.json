@@ -2245,6 +2245,93 @@
     },
 
     {
+      "id": "misc-starfish",
+      "releaseYear": 2024,
+      "releaseDate": "2024-05-16",
+      "group": "NCT 127",
+      "albumName": "Starfish Doll Keyring",
+      "versions": [
+        {
+          "id": "misc-starfish-merch",
+          "label": "Mark Starfish",
+          "type": "misc.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "misc-starfish-merch-01",
+              "idol": "Mark",
+              "name": "Mark Starfish Doll Keyring 01",
+              "image": "/photocards/NCT127/misc_sf.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "misc-8i",
+      "releaseYear": 2024,
+      "releaseDate": "2024-10-01",
+      "group": "NCT 127",
+      "albumName": "8ecret Invitation",
+      "versions": [
+        {
+          "id": "misc-8i-merch",
+          "label": "8ecret Invitation Deco Sticker",
+          "type": "misc.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "misc-8i-merch-01",
+              "idol": "Mark",
+              "name": "Mark Starfish Deco Sticker 01",
+              "image": "/photocards/NCT127/misc_8i.png",
+              "notes": "",
+              "owned": 1,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "misc-tj",
+      "releaseYear": 2024,
+      "releaseDate": "2024-05-16",
+      "group": "NCT 127",
+      "albumName": "NEO CITY : SEOUL Track Jacket",
+      "versions": [
+        {
+          "id": "misc-tj-merch",
+          "label": "Track Jacket",
+          "type": "misc.",
+          "order": 1,
+          "cards": [
+            {
+              "id": "misc-tj-merch-01",
+              "idol": "Mark",
+              "name": "Mark Track Jacket 01",
+              "image": "/photocards/NCT127/misc_tj.png",
+              "notes": "",
+              "owned": 2,
+              "tradeNote": "Any photocard on my wishlist.",
+              "salePrice": 6,
+              "saleNote": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
       "id": "blue-valentine",
       "releaseYear": 2025,
       "releaseDate": "2025-10-13",

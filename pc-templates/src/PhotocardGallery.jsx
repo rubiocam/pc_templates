@@ -54,7 +54,14 @@ import "./PhotocardGallery.css";
  *     "canvaUrl": "https://canva.link/...",
  *     "note": "Optional note shown above the Canva link",
  *     "cards": [
- *       { "id": "want-01", "idol": "Wonyoung", "cardName": "Wonyoung ON Ver.", "albumName": "IVE SWITCH", "versionLabel": "ON Ver.", "image": "", "note": "" }
+ *       { "id": "want-01", 
+ *         "idol": "Wonyoung", 
+ *         "cardName": "Wonyoung ON Ver.", 
+ *         "albumName": "IVE SWITCH", 
+ *         "versionLabel": "ON Ver.", 
+ *         "image": "", 
+ *         "note": "" 
+ *       }
  *     ]
  *   }
  * }
@@ -317,7 +324,7 @@ export default function PhotocardGallery() {
   const [albumFilter, setAlbumFilter] = useState("");
   const [versionFilter, setVersionFilter] = useState("");
   const [tradeableOnly, setTradeableOnly] = useState(false);
-  const [sortBy, setSortBy] = useState("album");
+  const [sortBy, setSortBy] = useState("group");
   const [sortReverse, setSortReverse] = useState(false);
   const [showFilters, setShowFilters] = useState(true);
   const [view, setView] = useState("grid");
@@ -422,7 +429,7 @@ export default function PhotocardGallery() {
     setAlbumFilter("");
     setVersionFilter("");
     setTradeableOnly(false);
-    setSortBy("album");
+    setSortBy("group");
     setSortReverse(false);
   }
 
